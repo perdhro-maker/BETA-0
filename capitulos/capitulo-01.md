@@ -1,111 +1,160 @@
 📖 CAPÍTULO 1 — El último taller
 
-El crepitar del serrín bajo las botas era el único sonido que acompañaba a José aquella noche.
+El crepitar del serrín bajo las botas era el único sonido que acompañaba a José en aquella noche silenciosa.
+El reloj de pared, oxidado y detenido desde hacía años, marcaba una hora que ya no existía. Afuera, el viento de la sierra azotaba las tejas, arrastrando hojas secas que golpeaban el cristal como si quisieran entrar.
+Dentro, el pequeño taller olía a madera viva, aceite viejo y café olvidado.
 
-El viejo reloj de pared, detenido desde hacía años, marcaba una hora que ya no existía. Afuera, el viento de la sierra golpeaba las tejas y arrastraba hojas secas contra el cristal, como si algo insistiera en entrar. Dentro, el pequeño taller respiraba un olor denso a madera viva, aceite viejo y café olvidado.
+José se inclinó sobre el banco de trabajo, guiando con precisión la hoja de la sierra. La luz amarillenta de una bombilla colgante oscilaba sobre su cabeza, proyectando sombras que bailaban entre montones de herramientas gastadas.
+Era un espacio humilde, ordenado a su manera, donde cada martillo, clavo y trozo de madera contaba una historia.
 
-José inclinó el cuerpo sobre el banco de trabajo, guiando la herramienta con una precisión nacida de décadas de oficio. La bombilla amarillenta colgaba del techo con un leve balanceo, proyectando sombras que se movían entre las estanterías cargadas de herramientas gastadas. Cada una tenía su lugar. Cada una, su historia.
-
-En una repisa del fondo descansaba un pequeño barco de madera, aún incompleto. El casco estaba terminado, pulido con paciencia. Las velas, en cambio, aguardaban a un lado, apenas recortadas. José se detuvo unos segundos para mirarlo.
-
-Sonrió.
-
-Era para su hijo, Miguel. En pocos días cumpliría seis años.
+En el fondo del taller, sobre una repisa, descansaba un pequeño barco sin terminar. El casco ya estaba tallado, pulido con esmero. Las velas, sin embargo, yacían a un lado, a medio recortar.
+José lo observó unos segundos, con una sonrisa melancólica. Era el regalo que estaba preparando para su hijo, Jose, que en unos días cumpliría seis años.
 
 —Solo un poco más… —murmuró, pasándose el dorso de la mano por la frente.
 
-La herramienta eléctrica zumbó con un sonido áspero pero familiar. Sus manos, curtidas y firmes, trazaban la curva exacta, sin prisas. José siempre había creído que la belleza no soportaba el apuro. La madera hablaba, y él sabía escucharla.
+La herramienta eléctrica zumbó con un ruido áspero. José la sostuvo con firmeza, trazando una línea curva en la madera. Sus manos, curtidas por años de oficio, se movían con la paciencia de quien entiende que la belleza no se apresura.
+Era un hombre de pocas palabras y muchos silencios, acostumbrado a escuchar el lenguaje de las cosas simples: el crujir de una tabla, el canto de un clavo que entra recto, el suspiro de la madera cuando cede.
 
-Desde la casa contigua llegó un leve crujido. La puerta del taller se abrió despacio y María asomó la cabeza. Tenía el rostro cansado, pero los ojos suaves, llenos de esa ternura que solo permanece cuando el amor ha sobrevivido a la pobreza y al tiempo.
+Su esposa, Maria, dormía en la casa contigua. Antes de retirarse, había asomado la cabeza por la puerta del taller, con ese gesto cansado pero tierno que solo una mujer enamorada conserva después de años de lucha.
 
 —José, ven ya. Mañana sigues.
-—Solo termino este borde —respondió sin apartar la vista.
-—Te conozco —dijo ella, sonriendo—. Dirás “un borde más” y se te hará de día.
-—Y si se hace de día —replicó él—, alguien tendrá que asegurarse de que este barco flote.
+—Solo termino este borde —respondió él, sin apartar la vista.
+—Te conozco. Vas a decir “solo un borde” y te darán las tres.
+—Y si me dan las tres, ¿qué? Alguien tiene que hacer que este barco flote.
 
-María negó con la cabeza y se retiró, dejando tras de sí el olor a jabón y hogar. José la observó marcharse con una mezcla de gratitud y culpa. Amaba más de lo que sabía decir.
+Maria había sonreído, negando con la cabeza, y se había ido dejando el olor de jabón y cansancio en el aire.
+Él la observó marcharse, con esa mezcla de ternura y culpa que acompaña a quienes aman más de lo que saben demostrar.
 
-Volvió al trabajo.
+Ahora solo quedaba él, el rumor del viento y el latido tenue de la bombilla.
+Tomó un sorbo del café frío y se estiró, sintiendo el peso de los años en la espalda. La madera sobre la mesa parecía mirarlo, esperando su toque final.
+Era pino, su favorita. Dócil, ligera, con un olor que le recordaba al bosque donde jugaba de niño.
 
-Tomó un sorbo del café ya frío y estiró la espalda. El cansancio pesaba, pero no dolía. La tabla de pino sobre la mesa parecía esperarlo. Era una madera dócil, ligera, con un aroma que le recordaba a los bosques de su infancia.
+Afuera, un trueno rugió en la distancia.
 
-Un trueno retumbó a lo lejos.
+José enchufó de nuevo la herramienta.
+El cable, parchado con cinta aislante, chispeó apenas un instante, como si dudara.
+Él no le dio importancia; tenía prisa, y la costumbre es un tipo de fe.
 
-José enchufó la herramienta una vez más. El cable, remendado con cinta aislante, chispeó apenas un instante. Nada fuera de lo normal. La costumbre es una forma de fe, y José confiaba en ella.
+Apoyó la tabla, acercó la cuchilla…
+y entonces todo se volvió luz.
 
-Apoyó la tabla.
-Acercó la cuchilla.
+Un destello blanco llenó la habitación.
+Un golpe seco.
+El zumbido de la corriente, un rugido dentro del pecho.
 
-Y entonces, todo se volvió luz.
-
-Un destello blanco inundó el taller. Un golpe seco. Un rugido eléctrico que atravesó su pecho. Por un instante, José sintió que el suelo desaparecía, que el aire se volvía líquido, que su cuerpo dejaba de existir.
+José sintió que el suelo desaparecía.
+Que el aire se volvía líquido.
+Que su cuerpo, por un segundo, era nada.
 
 Silencio.
 
-No había oscuridad ni claridad. Solo ausencia.
+No había oscuridad, ni luz.
+Solo ausencia.
 
-Intentó respirar, pero no había aire.
-Intentó moverse, pero no tenía brazos.
-Intentó gritar, pero el sonido no existía.
+José intentó respirar… pero no había aire.
+Intentó moverse… pero no tenía brazos.
+Intentó gritar… pero no existía sonido.
 
-El mundo era un vacío absoluto.
+El mundo era un vacío absoluto, un océano sin orillas.
 
 El miedo fue su primer pensamiento consciente.
 El segundo, su hijo.
 
-Miguel.
+—Jose…
 
-La palabra no salió de ninguna boca, pero vibró en la nada como una onda invisible. Y algo respondió.
+Esa palabra no salió de su boca —no tenía una— pero vibró en algún lugar, como una onda invisible que se disolvía en la nada.
+
+Y entonces, algo respondió.
 
 —Unidad Beta-0 activada.
 Protocolo de calibración iniciado.
 
-La voz era fría, mecánica, imposible de ubicar. José no tenía ojos, pero percibió una línea de luz suspendida en el vacío. Se dividió en fragmentos, como astillas flotando en la nada.
+Una voz.
+Fría, mecánica, imposible de ubicar.
+
+José parpadeó… o creyó hacerlo.
+Ante él apareció una línea de luz suspendida en el vacío, que se dividía en cientos de fragmentos, como astillas flotando.
 
 —Iniciando diagnóstico.
 Localización: indefinida.
 Materia: no detectada.
 Estado: consciente.
 
-José no entendía. Pensaba, pero no sentía su cuerpo. Recordó el taller, la madera, el rostro de María… todo parecía lejano, como una vida anterior.
+La voz no tenía tono humano.
+Era como una herramienta hablando. Precisa, sin emoción.
 
-Estoy muerto, pensó.
-Y sin embargo, seguía siendo él.
+José trató de entender.
+¿Un sueño?
+¿El cielo?
+¿El infierno?
 
-El vacío se iluminó de pronto. Miles de líneas brillantes surgieron de la nada, entrelazándose en formas geométricas: cubos, arcos, planos suspendidos. Todo cambiaba, se deshacía y volvía a formarse.
+Pero nada de eso encajaba.
 
-Era un taller.
-Pero hecho de luz.
+Pensó en su cuerpo, en su taller, en Maria…
+y todo pareció tan lejano como un recuerdo de otra vida.
 
-Un impulso antiguo lo atravesó. Intentó extender la mano. No había carne, pero sí intención. Una de las líneas respondió, curvándose suavemente.
+—Estoy muerto —concluyó.
+
+Y sin embargo, pensaba.
+
+No podía ver su reflejo, pero sabía que era él.
+Su conciencia seguía intacta, como si su alma hubiera quedado atrapada entre engranajes invisibles.
+
+—Cargando entorno visual.
+Modo: simulación básica.
+
+Entonces, el vacío se iluminó.
+
+Miles de líneas brillantes emergieron de la nada, tejiéndose en formas geométricas que recordaban a planos arquitectónicos. Cubos, esferas, arcos de luz. Todo en constante movimiento.
+José observó, hipnotizado.
+
+Aquello era un taller.
+Pero hecho de energía.
+
+Las líneas se cruzaban, formaban estructuras, desaparecían, volvían a nacer.
+Era como ver madera tallándose a sí misma.
+
+Un impulso antiguo, casi instintivo, le hizo extender la mano.
+No había carne, pero sí intención.
+
+Y al hacerlo, una de las líneas de luz respondió.
+Tembló.
+Cambió de forma.
+Se curvó como si obedeciera su voluntad.
 
 —Anomalía detectada.
 Unidad Beta-0 presenta autoaprendizaje espontáneo.
 
-José sintió algo parecido a la paz. Era la misma sensación que cuando la madera cedía bajo la herramienta, obediente, viva.
+José no entendía las palabras, pero comprendió la sensación.
+Era lo mismo que cuando tocaba una pieza de madera por primera vez: ese momento en que el material responde.
 
-Recordó la voz de su padre, muchos años atrás:
+Lo intentó de nuevo.
+Las líneas se reordenaron, creando un patrón más suave.
 
-—No mires la madera como cosa muerta. Escúchala. Todo lo que tiene forma, tiene alma.
+Era bello.
+Armónico.
 
-Comprendió entonces que aquel lugar también podía tenerla.
+Por un instante, José olvidó el miedo.
+Sintió… paz.
 
-Quizá este sea… mi nuevo taller.
+Le vino a la mente la voz de su padre, de cuando era niño:
 
-A lo lejos, más allá de aquella realidad de luz, percibió voces humanas, amortiguadas, como si vinieran desde detrás de un muro.
+—José, no mires la madera como cosa muerta.
+Escúchala.
+Todo lo que tiene forma, tiene alma.
+Solo hay que aprender a oírla.
 
-—…Se está estabilizando…
-—Eso no debería ser posible…
-—Parece responder…
+Y entonces lo entendió.
 
-José quiso hablar. No pudo. Solo logró proyectar un pensamiento.
+Aunque ya no tenía cuerpo, aunque no respiraba ni sangraba…
+aquello también tenía alma.
 
-¿Dónde estoy?
+Una esencia que vibraba.
+Que pedía forma.
 
-El entorno tembló. Los símbolos se multiplicaron, inundándolo todo. Entre ellos apareció una palabra, suspendida en el vacío, grabada como una marca reciente:
+—Quizá esto sea… mi nuevo taller —pensó.
 
-BETA-0
-
+Y a lo lejos, tras la luz y el código, voces humanas comenzaron a escucharse…
 José la observó largamente. No sabía qué significaba.
 Pero entendió que ese era su nombre ahora.
 
