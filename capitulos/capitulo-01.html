@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Capítulo 1 – El último taller</title>
+  <link rel="stylesheet" href="../styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+
+<div id="contenido"></div>
+
+<script>
+fetch('capitulo-01.md')
+  .then(res => res.text())
+  .then(text => {
+    document.getElementById('contenido').innerHTML = marked.parse(text);
+  });
+</script>
+
+</body>
+</html>
