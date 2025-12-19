@@ -33,4 +33,35 @@ hr {
   font-size: 0.9em;
   color: #aaa;
   text-align: center;
+.btn {
+  display: inline-block;
+  margin: 10px 0;
+  padding: 8px 12px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+.share-buttons {
+  margin-top: 20px;
+  font-size: 14px;
+}
+
+.share-buttons a {
+  color: #007BFF;
+  text-decoration: none;
+  margin: 0 5px;
+  transition: color 0.3s;
+}
+
+.share-buttons a:hover {
+  color: #0056b3;
+}
+
 }
