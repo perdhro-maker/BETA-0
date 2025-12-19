@@ -1,0 +1,42 @@
+name: Generar novela BETA-0
+
+
+on:
+workflow_dispatch:
+schedule:
+- cron: '0 2 * * *'
+
+
+jobs:
+generar:
+runs-on: ubuntu-latest
+
+
+steps:
+- name: Clonar repositorio
+uses: actions/checkout@v3
+
+
+- name: Instalar Python
+uses: actions/setup-python@v4
+with:
+python-version: '3.10'
+
+
+- name: Instalar dependencias
+run: pip install openai
+
+
+- name: Ejecutar automatización
+env:
+OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+run: python scripts/automatizar.py
+
+
+- name: Guardar capítulos en GitHub
+run: |
+git config --global user.name "beta-0-bot"
+git config --global user.email "beta0@users.noreply.github.com"
+git add Capitulos/
+git commit -m "Capítulos generados automáticamente" || echo "Sin cambios"
+git push
