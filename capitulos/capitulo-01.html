@@ -8,7 +8,23 @@
 </head>
 <body>
 
-<div id="contenido"></div>
+<div class="content">
+  <!-- Botón volver a inicio -->
+  <a href="../index.html" class="btn">← Volver a inicio</a>
+
+  <h1>Capítulo 1 – El último taller</h1>
+
+  <!-- Contenedor donde se renderiza el MD -->
+  <div id="contenido"></div>
+
+  <!-- Botones compartir -->
+  <div class="share-buttons">
+    <span>Compartir: </span>
+    <a href="https://twitter.com/intent/tweet?url=TU_URL_CAP1&text=Estoy%20leyendo%20El%20Carpintero%20del%20Nuevo%20Mundo%20Digital" target="_blank">Twitter</a> |
+    <a href="https://www.facebook.com/sharer/sharer.php?u=TU_URL_CAP1" target="_blank">Facebook</a> |
+    <a href="https://api.whatsapp.com/send?text=Estoy%20leyendo%20El%20Carpintero%20del%20Nuevo%20Mundo%20Digital:%20TU_URL_CAP1" target="_blank">WhatsApp</a>
+  </div>
+</div>
 
 <script>
 fetch('capitulo-01.md')
